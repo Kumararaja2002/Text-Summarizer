@@ -5,3 +5,7 @@ langchain-community
 langchain-yt-dlp
 python-dotenv
 validators
+youtube_transcript_api
+unstructured
+pytube
+numexpr
