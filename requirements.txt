@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-yt-dlp
+python-dotenv
+validators
