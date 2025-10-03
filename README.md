@@ -18,7 +18,7 @@ This is a simple Streamlit web app that summarizes content from YouTube videos o
 
 2. Install dependencies:
 ```
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 
 3. Add your .env file with API keys.
@@ -26,5 +26,5 @@ pip install -r requirements.txt
 
 4. Run the Streamlit app:
 ```
-streamlit run app.py
+   streamlit run app.py
 ```
